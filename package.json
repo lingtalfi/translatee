@@ -1,6 +1,6 @@
 {
   "name": "translatee",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and flexible translate function for js.",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,6 @@
   },
   "keywords": ["i18n", "translation", "plural"],
   "author": "lingtalfi",
+  "homepage": "https://github.com/lingtalfi/translatee",
   "license": "ISC"
 }
