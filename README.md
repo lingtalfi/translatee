@@ -7,6 +7,12 @@ A simple and flexible translate function for js.
 
 
 
+Install
+--------
+
+```js 
+npm install translatee
+```
 
 
 
